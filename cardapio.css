@@ -1,0 +1,17 @@
+body {
+    --bege: #E6E0D6;
+    --marrom-escuro: #816D4F;
+    --marrom-claro: #B29463;
+    font-family: 'Barlow', sans-serif;
+    background-color: #816D4F;
+  }
+
+  .titulo{
+    font-family: 'Barlow', sans-serif;
+  }
+
+  a{
+    text-decoration: none;
+    color: black;
+  }
+
