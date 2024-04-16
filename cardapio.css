@@ -15,8 +15,9 @@ body {
 
 .container {
   max-width: 800px;
-  margin: 0 auto;
+  margin: 20px auto;
   padding: 20px;
+  border-style: dashed;
 }
 
 .titulo {
@@ -49,4 +50,5 @@ li {
   background-color: var(--marrom-claro);
   border-radius: 0.2em;
   padding: 2px;
+  border: 1px solid var(--marrom-escuro);
 }
